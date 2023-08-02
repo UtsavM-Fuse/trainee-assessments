@@ -16,17 +16,24 @@ def multiply(a: float, b: float) -> float:
     return a * b
 
 
+def divide(a: float, b: float) -> float:
+    """Divide the first number by the second number."""
+    return a / b
+
+
 def main():
     """Main function to perform basic mathematical operations."""
     result_addition = add(args.firstNum, args.secondNum)
     result_subtraction = subtract(args.firstNum, args.secondNum)
     result_multiplication = multiply(args.firstNum, args.secondNum)
+    result_division = divide(args.firstNum, args.secondNum)
 
     print(f"Addition: {args.firstNum} + {args.secondNum} = {result_addition}")
     print(f"Subtraction: {args.firstNum} - {args.secondNum} = {result_subtraction}")
     print(
         f"Multiplication: {args.firstNum} * {args.secondNum} = {result_multiplication}"
     )
+    print(f"Division: {args.firstNum} / {args.secondNum} = {result_division}")
 
 
 if __name__ == "__main__":
