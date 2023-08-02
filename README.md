@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple-Calculator 1.0.0
 
 Python functions for basic mathematical operations such as addition, subtraction, and multiplication.
 
