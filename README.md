@@ -12,6 +12,12 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+# Prepare Git Hooks
+```bash
+cp hooks/commit-msg .git/hooks/commit-msg
+cp hooks/pre-commit .git/hooks/pre-commit
+pre-commit install
+```
 
 # Example Usage
 
