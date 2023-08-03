@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+import re
+import subprocess
+import sys
+
+def check_email():
+    email_regex = r"^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$"
+    git_author_email = subprocess.check_output(["git", "config", "user.email"]).decode().strip()
+    if not re.match(email_regex, git_author_email):
+        print("Error: Incorrect email format. Please configure correct email in your Git settings.")
+        sys.exit(1)
+
+def check_trailing_whitespaces():
+    against = "HEAD" if subprocess.call(["git", "rev-parse", "--verify", "HEAD"]) == 0 else "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+    if subprocess.call(["git", "diff-index", "--check", "--cached", against, "--"]) != 0:
+        print("Error: Trailing whitespaces found in the changes being committed.")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    check_email()
+    check_trailing_whitespaces()
+    sys.exit(0)
