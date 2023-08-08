@@ -42,8 +42,14 @@ python ./2_intermediate_python/8_oop_university.py
 # Example Usage (FastAPI)
 
 ```bash
-uvicorn 5_fastapi.main:app --reload
+uvicorn 5_fastapi_employee_data.main:app --reload
 lsof -ti:8000 | xargs kill -9
+```
+
+# Example Usage (Streamlit)
+
+```bash
+streamlit run 6_streamlit_employee_data_entry/main.py
 ```
 
 # Links to Study Documents
