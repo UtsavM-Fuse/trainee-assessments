@@ -100,7 +100,7 @@ profile_default/
 ipython_config.py
 
 # database
-data.db
+*.db
 
 # pyenv
 .python-version
