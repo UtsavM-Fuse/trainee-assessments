@@ -39,6 +39,13 @@ python ./2_intermediate_python/8_oop_university.py
 
 ```
 
+# Example Usage (FastAPI)
+
+```bash
+uvicorn 5_fastapi.main:app --reload
+lsof -ti:8000 | xargs kill -9
+```
+
 # Links to Study Documents
 
 -   [Documentation and Study Materials [ClickUp]](https://doc.clickup.com/9007106573/d/h/8cdv2gd-644/3c68632ef16dd69)

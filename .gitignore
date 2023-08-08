@@ -99,6 +99,9 @@ target/
 profile_default/
 ipython_config.py
 
+# database
+data.db
+
 # pyenv
 .python-version
 
