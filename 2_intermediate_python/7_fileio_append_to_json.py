@@ -1,3 +1,9 @@
+"""
+Module: json_operations
+
+This module provides functions to create and manipulate JSON files.
+"""
+
 import json
 
 

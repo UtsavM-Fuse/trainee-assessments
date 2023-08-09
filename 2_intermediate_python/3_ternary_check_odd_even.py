@@ -1,3 +1,10 @@
+"""
+Odd-Even Check Module
+
+This module provides a function to check if a given integer is odd or even using a ternary operator.
+"""
+
+
 def check_odd_even(number: int) -> str:
     """
     Check if the given number is odd or even using a ternary operator.
@@ -20,6 +27,9 @@ def check_odd_even(number: int) -> str:
 
 
 def test_check_odd_even():
+    """
+    This function is a test suite for the `check_odd_even` function
+    """
     # Test case 1: Even number
     assert check_odd_even(10) == "Even"
 

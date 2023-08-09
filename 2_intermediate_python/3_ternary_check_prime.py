@@ -1,9 +1,17 @@
-def check_prime(n: int) -> str:
+"""
+Prime Check Module
+
+This module provides a function to check if a given positive integer 
+is prime using a ternary operator.
+"""
+
+
+def check_prime(num: int) -> str:
     """
     Check if the given number is prime using a ternary operator.
 
     Args:
-        n (int): The positive integer to be checked.
+        num (int): The positive integer to be checked.
 
     Returns:
         str: "Prime" if the number is prime, "Not Prime" otherwise.
@@ -21,15 +29,18 @@ def check_prime(n: int) -> str:
 
     output = (
         "Not Prime"
-        if n < 2
+        if num < 2
         else "Prime"
-        if all(n % i != 0 for i in range(2, int(n**0.5) + 1))
+        if all(num % i != 0 for i in range(2, int(num**0.5) + 1))
         else "Not Prime"
     )
     return output
 
 
 def test_check_prime():
+    """
+    This function is a test suite for the `check_prime` function
+    """
     # Test case 1: Prime number (5)
     assert check_prime(5) == "Prime"
 

@@ -1,3 +1,10 @@
+"""
+Module: read_file_contents
+
+This module provides a function to read and display the contents of a given file.
+"""
+
+
 def read_file_contents(filename: str) -> None:
     """
     Read and display the contents of the given file.

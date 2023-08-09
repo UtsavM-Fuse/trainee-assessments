@@ -1,3 +1,11 @@
+"""
+Module: unique_characters_in_words
+
+This module provides a function to create a set containing all unique 
+characters present in a list of words.
+"""
+
+
 def unique_characters_in_words(words: list[str]) -> set[str]:
     """
     Create a set containing all unique characters present in the words.
@@ -21,6 +29,9 @@ def unique_characters_in_words(words: list[str]) -> set[str]:
 
 
 def test_unique_characters_in_words():
+    """
+    This function is a test suite for the `unique_characters_in_words` function
+    """
     # Test case 1: Normal case with mixed words
     words1 = ["hello", "world", "python"]
     assert unique_characters_in_words(words1) == {

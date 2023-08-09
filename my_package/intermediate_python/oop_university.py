@@ -1,3 +1,10 @@
+"""
+Module: university_system
+
+This module defines classes for a simple university system.
+"""
+
+
 class University:
     def __init__(self, name: str, location: str) -> None:
         """

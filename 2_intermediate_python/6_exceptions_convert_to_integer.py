@@ -1,3 +1,10 @@
+"""
+Module: convert_to_integer
+
+This module provides a function to convert user input to an integer.
+"""
+
+
 def convert_to_integer(user_input: str) -> int:
     """
     Convert the given user input to an integer.

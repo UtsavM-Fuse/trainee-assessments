@@ -1,3 +1,10 @@
+"""
+Module: banking_system
+
+This module defines classes for a simple banking system.
+"""
+
+
 class BankAccount:
     def __init__(self, account_number: str, balance: float, account_type: str) -> None:
         """

@@ -1,4 +1,8 @@
-import csv
+"""
+Module: csv_operations
+
+This module provides functions to create and manipulate CSV files.
+"""
 
 import csv
 

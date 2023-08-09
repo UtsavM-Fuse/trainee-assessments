@@ -1,3 +1,10 @@
+"""
+Bigger Number Finder Module
+
+This module provides a function to find the bigger number among three integers.
+"""
+
+
 def find_bigger_number(a: int, b: int, c: int) -> int | str:
     """
     Find the bigger number among the three integers.
@@ -26,6 +33,9 @@ def find_bigger_number(a: int, b: int, c: int) -> int | str:
 
 
 def test_find_bigger_number():
+    """
+    This function is a test suite for the `find_bigger_number` function
+    """
     # Test case 1: Larger number is the first integer
     assert find_bigger_number(5, 10, 7) == 10
 
