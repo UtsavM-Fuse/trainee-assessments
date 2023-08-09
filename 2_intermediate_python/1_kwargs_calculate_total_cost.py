@@ -1,3 +1,10 @@
+"""
+Total Cost Calculator Module
+
+This module provides a function to calculate the total cost of items purchased from a store.
+"""
+
+
 def calculate_total_cost(**items) -> float:
     """
     Calculate the total cost of items purchased from a store.
@@ -21,6 +28,9 @@ def calculate_total_cost(**items) -> float:
 
 
 def test_calculate_total_cost():
+    """
+    This function is a test suite for the `calculate_total_cost` function
+    """
     # Test case 1: Calculate total cost for multiple items
     items1 = {"apple": 0.5, "banana": 0.3, "orange": 0.4}
     assert round(calculate_total_cost(**items1), 2) == 1.2

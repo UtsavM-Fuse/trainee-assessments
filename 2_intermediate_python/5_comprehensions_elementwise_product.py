@@ -1,3 +1,11 @@
+"""
+Module: elementwise_product
+
+This module provides a function to compute the element-wise product of two 
+lists containing integers.
+"""
+
+
 def elementwise_product(list1: list[int], list2: list[int]) -> list[int]:
     """
     Create a new list containing the product of each element of the first list
@@ -25,6 +33,9 @@ def elementwise_product(list1: list[int], list2: list[int]) -> list[int]:
 
 
 def test_elementwise_product():
+    """
+    This function is a test suite for the `elementwise_product` function
+    """
     # Test case 1: Normal case with positive integers
     assert elementwise_product([1, 2, 3], [10, 20, 30]) == [10, 40, 90]
 

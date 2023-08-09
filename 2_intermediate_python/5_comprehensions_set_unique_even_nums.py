@@ -1,3 +1,10 @@
+"""
+Module: unique_even_numbers
+
+This module provides a function to create a set containing unique even numbers from a given list.
+"""
+
+
 def unique_even_numbers(numbers: list[int]) -> set[int]:
     """
     Create a set containing unique even numbers from the given list.
@@ -21,6 +28,9 @@ def unique_even_numbers(numbers: list[int]) -> set[int]:
 
 
 def test_unique_even_numbers():
+    """
+    This function is a test suite for the `unique_even_numbers` function
+    """
     # Test case 1: Normal case with mixed numbers
     numbers1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     assert unique_even_numbers(numbers1) == {2, 4, 6, 8}

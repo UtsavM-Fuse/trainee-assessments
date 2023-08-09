@@ -1,9 +1,17 @@
+"""
+Module: filter_students_above_80
+
+This module provides a function to filter students who scored more than 80 from a dictionary.
+"""
+
+
 def filter_students_above_80(scores_dict: dict[str, int]) -> dict[str, int]:
     """
     Create a new dictionary containing only the students who scored more than 80.
 
     Args:
-        scores_dict (dict[str, int]): A dictionary with students' names as keys and their respective scores as values.
+        scores_dict (dict[str, int]): A dictionary with students' names as keys and
+        their respective scores as values.
 
     Returns:
         dict[str, int]: A new dictionary with students who scored more than 80.
@@ -17,6 +25,9 @@ def filter_students_above_80(scores_dict: dict[str, int]) -> dict[str, int]:
 
 
 def test_filter_students_above_80():
+    """
+    This function is a test suite for the `filter_students_above_80` function
+    """
     # Test case 1: Normal case with students above and below 80
     scores1 = {"Alice": 85, "Bob": 70, "Charlie": 90, "David": 75}
     assert filter_students_above_80(scores1) == {"Alice": 85, "Charlie": 90}

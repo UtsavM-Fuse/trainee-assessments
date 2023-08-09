@@ -1,3 +1,11 @@
+"""
+Summation Module
+
+This module provides a function to calculate the sum of a variable number of 
+integer or floating-point numbers.
+"""
+
+
 def sum_numbers(*args: int | float) -> int | float:
     """
     Calculate the sum of all the given numbers.
@@ -22,6 +30,9 @@ def sum_numbers(*args: int | float) -> int | float:
 
 
 def test_sum_numbers():
+    """
+    This function is a test suite for the `sum_numbers` function
+    """
     # Test case 1: Basic sum with integers
     assert sum_numbers(1, 2, 3) == 6
 

@@ -1,3 +1,10 @@
+"""
+Module: divide_numbers
+
+This module provides a function to perform division of two integers and handles ZeroDivisionError.
+"""
+
+
 def divide_numbers(num1: int, num2: int) -> float:
     """
     Perform division of two integers and handle ZeroDivisionError.

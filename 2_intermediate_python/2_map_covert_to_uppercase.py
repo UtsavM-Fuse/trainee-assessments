@@ -1,3 +1,10 @@
+"""
+Uppercase Conversion Module
+
+This module provides a function to convert all strings in a list to uppercase.
+"""
+
+
 def convert_to_uppercase(strings_list: list[str]) -> list[str]:
     """
         Convert all strings in the list to uppercase.
@@ -21,6 +28,9 @@ def convert_to_uppercase(strings_list: list[str]) -> list[str]:
 
 
 def test_convert_to_uppercase():
+    """
+    This function is a test suite for the `convert_to_uppercase` function
+    """
     # Test case 1: Basic conversion
     input_list1 = ["hello", "world", "python"]
     assert convert_to_uppercase(input_list1) == ["HELLO", "WORLD", "PYTHON"]
@@ -36,7 +46,7 @@ def test_convert_to_uppercase():
     # Test case 4: Conversion with numbers (should raise AttributeError)
     try:
         input_list4 = ["hello", 123, "world"]
-        result4 = convert_to_uppercase(input_list4)
+        convert_to_uppercase(input_list4)
     except (AttributeError, TypeError):
         assert True
     else:

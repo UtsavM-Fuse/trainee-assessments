@@ -1,3 +1,9 @@
+"""
+Module: filter_long_strings
+
+This module provides a function to filter strings with more than 5 characters from a given list.
+"""
+
 def filter_long_strings(strings_list: list[str]) -> list[str]:
     """
     Filter strings with more than 5 characters from the given list using list comprehension.
@@ -21,6 +27,9 @@ def filter_long_strings(strings_list: list[str]) -> list[str]:
 
 
 def test_filter_long_strings():
+    """
+    This function is a test suite for the `filter_long_strings` function
+    """
     # Test case 1: Filter long strings from the input list
     input_list1 = ["apple", "banana", "orange", "grapes", "kiwi", "pear"]
     assert filter_long_strings(input_list1) == ["banana", "orange", "grapes"]

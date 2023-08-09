@@ -1,12 +1,18 @@
+"""
+Factorial Calculation Module
+
+This module provides a function to calculate the factorial of a given integer.
+"""
+
 from functools import reduce
 
 
-def calculate_factorial(n: int) -> int:
+def calculate_factorial(num: int) -> int:
     """
     Calculate the factorial of a given integer.
 
     Args:
-        n (int): The integer for which to calculate the factorial.
+        num (int): The integer for which to calculate the factorial.
 
     Returns:
         int: The factorial of the input integer.
@@ -26,12 +32,15 @@ def calculate_factorial(n: int) -> int:
         ...
         ValueError: Factorial is not defined for negative numbers.
     """
-    if n < 0:
+    if num < 0:
         raise ValueError("Factorial is not defined for negative numbers.")
-    return reduce(lambda x, y: x * y, range(1, n + 1), 1)
+    return reduce(lambda x, y: x * y, range(1, num + 1), 1)
 
 
 def test_calculate_factorial():
+    """
+    This function is a test suite for the `calculate_factorial` function
+    """
     # Test case 1: Factorial of 5
     assert calculate_factorial(5) == 120
 
@@ -46,7 +55,7 @@ def test_calculate_factorial():
 
     # Test case 5: Factorial of a negative number (should raise ValueError)
     try:
-        result5 = calculate_factorial(-5)
+        calculate_factorial(-5)
     except ValueError:
         assert True
     else:

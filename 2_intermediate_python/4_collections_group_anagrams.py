@@ -1,3 +1,10 @@
+"""
+Anagram Grouping Module
+
+This module provides a function to group anagrams together from a given list of strings.
+"""
+
+
 def group_anagrams(strs: list[str]) -> list[list[str]]:
     """
     Group anagrams together from the given list of strings.
@@ -32,6 +39,6 @@ def group_anagrams(strs: list[str]) -> list[list[str]]:
 
 
 if __name__ == "__main__":
-    strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
-    result = group_anagrams(strs)
+    input_strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
+    result = group_anagrams(input_strs)
     print(result)

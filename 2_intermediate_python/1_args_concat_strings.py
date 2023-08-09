@@ -1,3 +1,10 @@
+"""
+String Concatenation Module
+
+This module provides a function for concatenating any number of strings into a single string.
+"""
+
+
 def concat_strings(*args: str) -> str:
     """
     Concatenate any number of strings into a single string.
@@ -22,6 +29,9 @@ def concat_strings(*args: str) -> str:
 
 
 def test_concat_strings():
+    """
+    This function is a test suite for the `concat_strings` function
+    """
     # Test case 1: Basic concatenation
     result1 = concat_strings("Hello", " ", "World")
     assert result1 == "Hello World"
@@ -44,7 +54,7 @@ def test_concat_strings():
 
     # Test case 6: Concatenation with numbers (should raise TypeError)
     try:
-        result6 = concat_strings("Python", " ", 3.7)
+        concat_strings("Python", " ", 3.7)
     except TypeError:
         assert True
     else:

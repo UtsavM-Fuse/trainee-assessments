@@ -1,3 +1,11 @@
+"""
+Dictionary Creation Module
+
+This module provides a function to create a dictionary using dictionary comprehension from two lists
+containing keys and corresponding values.
+"""
+
+
 def create_dictionary(keys_list: list[any], values_list: list[any]) -> dict[any, any]:
     """
     Create a dictionary using dictionary comprehension from two lists containing keys and values.
@@ -24,6 +32,9 @@ def create_dictionary(keys_list: list[any], values_list: list[any]) -> dict[any,
 
 
 def test_create_dictionary():
+    """
+    This function is a test suite for the `create_dictionary` function
+    """
     # Test case 1: Normal case with strings and integers
     keys_list1 = ["a", "b", "c"]
     values_list1 = [1, 2, 3]
