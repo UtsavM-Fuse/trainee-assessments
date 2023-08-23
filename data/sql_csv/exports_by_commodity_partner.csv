@@ -1,0 +1,974 @@
+HSCode,Description,Partner Countries,Unit,Quantity,Exports_Value
+1069000,Other live animals,Japan,PCS,3,13
+4049000,"Products consisting of natural milk consti tuents, nes",India,Kg,63,30
+4059010,Ghee,Australia,Kg,17,58
+4090010,Processed natural honey,Australia,Kg,265,2698
+5080000,"Coral; shells of molluscs, crustaceans or  echinoderms and cuttlebone, unworked",United States,Kg,25,13
+7032000,"Garlic, fresh or chilled  .",Qatar,Kg,1450,52
+7042000,"Brussels sprouts, fresh or chilled",United Arab Emirates,Kg,274,17
+7049000,"White and red cabbages, kohlrabi, kalee tc, fresh or chilled.",India,Kg,3099596,36170
+7089000,"Leguminous vegetables, fresh or chilled, n es",Hong Kong,Kg,84,19
+7092000,"Asparagus, fresh or chilled",Qatar,Kg,17368,3472
+7094000,"Celery, fresh or chilled  .",Hong Kong,Kg,1229,30
+7095100,"Mushrooms of the genus agaricus, fresh or  chilled",United Arab Emirates,Kg,130,13
+7096000,"Fruits of genus capiscum or pimenta, fresh  or chilled",Hong Kong,Kg,1477,36
+7096000,"Fruits of genus capiscum or pimenta, fresh  or chilled",India,Kg,200,6
+7096000,"Fruits of genus capiscum or pimenta, fresh  or chilled",United Arab Emirates,Kg,79,14
+7099900,Other fresh or chilled vegetables,Hong Kong,Kg,663,20
+7099900,Other fresh or chilled vegetables,India,Kg,285280,3887
+7122000,Dried onions,India,Kg,8000,5040
+7134090,Others,Australia,Kg,1535,295
+8059000,"Citrus fruit, fresh or dried, nes",India,Kg,2130,32
+8109090,"Other fruit, fresh, nes",India,Kg,2000,30
+9011100,"Coffee, not roasted, not decaffeinated",Germany,Kg,4000,7394
+9011100,"Coffee, not roasted, not decaffeinated",Hong Kong,Kg,170,457
+9011100,"Coffee, not roasted, not decaffeinated",India,Kg,40,62
+9011100,"Coffee, not roasted, not decaffeinated",Japan,Kg,305,448
+9011100,"Coffee, not roasted, not decaffeinated","Taiwan, Province of China",Kg,67,18
+9021000,"Green tea,whether or not flavoured, in imm  diate packings of content <=3kg",Australia,Kg,393,179
+9022000,"Green tea,whether or not flavoured, nes",Canada,Kg,930,1755
+9022000,"Green tea,whether or not flavoured, nes",China,Kg,1851,367
+9022000,"Green tea,whether or not flavoured, nes",Finland,Kg,30,169
+9022000,"Green tea,whether or not flavoured, nes",France,Kg,363,1365
+9022000,"Green tea,whether or not flavoured, nes",Germany,Kg,4298,9612
+9022000,"Green tea,whether or not flavoured, nes",Hong Kong,Kg,2550,42
+9022000,"Green tea,whether or not flavoured, nes",Japan,Kg,3119,5259
+9022000,"Green tea,whether or not flavoured, nes","Korea, Republic of",Kg,26,414
+9022000,"Green tea,whether or not flavoured, nes",Lithuania,Kg,800,2287
+9022000,"Green tea,whether or not flavoured, nes",New Zealand,Kg,6,69
+9022000,"Green tea,whether or not flavoured, nes",United Kingdom,Kg,21,144
+9022000,"Green tea,whether or not flavoured, nes",United States,Kg,133,682
+9024000,"Black tea(fermented) and partly fermented,  hether or not flavoured,in packings o",France,Kg,5806,10741
+9024000,"Black tea(fermented) and partly fermented,  hether or not flavoured,in packings o",India,Kg,1600000,368194
+9024000,"Black tea(fermented) and partly fermented,  hether or not flavoured,in packings o",Russian Federation,Kg,11214,6789
+9024000,"Black tea(fermented) and partly fermented,  hether or not flavoured,in packings o",United States,Kg,2165,4411
+9041110,Dried pepper neither crushed nor ground,Germany,Kg,900,1108
+9041190,Dried pepper neither crushed nor ground,Germany,Kg,4000,7934
+9061100,Cinnamon (Cunnamomum zeylanicum Blume) - N either crushed nor ground,India,Kg,60321,4010
+9061900,"Other - Cinnamon & cinnamon tree flowers,  neither crushed nor ground",India,Kg,58539,7315
+9083110,Alaichi,India,Kg,277870,228586
+9101110,Fresh Ginger nither crushed nor ground,India,Kg,2184750,69741
+9101190,Other Ginger crushed or ground (sutho),India,Kg,39000,6240
+9109100,Spice mixtures,United States,Kg,2812,1897
+9109990,Other spices nes .,Australia,Kg,1495,499
+9109990,Other spices nes .,India,Kg,32780,2754
+9109990,Other spices nes .,Japan,Kg,578,377
+10059000,Maize (excl seed),Australia,Kg,988,141
+10061010,Seed of Paddy Rice,Australia,Kg,849,181
+10063090,"Semi-milled or wholly milled rice, whether  or not polished or glazed",Australia,Kg,93,251
+10081000,Buckwheat .,Australia,Kg,1470,321
+11010000,Wheat or meslin flour except maida,Australia,Kg,41,40
+11010000,Wheat or meslin flour except maida,Japan,Kg,36000,3319
+11022000,Maize (corn) flour,Australia,Kg,1,7
+11029000,"Other cereal flour, nes",Australia,Kg,8336,4388
+12074000,Sesamum seeds  .,Australia,Kg,892,309
+12119010,Yarchhagumba,Cambodia,Kg,104,64575
+12119010,Yarchhagumba,Hong Kong,Kg,81,50438
+12119010,Yarchhagumba,"Korea, Republic of",Kg,0,29
+12119010,Yarchhagumba,Singapore,Kg,2,1277
+12119010,Yarchhagumba,United Kingdom,Kg,3,1904
+12119010,Yarchhagumba,United States,Kg,8,5028
+12119010,Yarchhagumba,Viet Nam,Kg,6,1527
+12119090,"Other plants or parts, of a kind used in p erfumery, pharmacy etc, nes",Cambodia,Kg,5,13
+12119090,"Other plants or parts, of a kind used in p erfumery, pharmacy etc, nes",Hong Kong,Kg,680,303
+12119090,"Other plants or parts, of a kind used in p erfumery, pharmacy etc, nes",India,Kg,320618,51850
+12119090,"Other plants or parts, of a kind used in p erfumery, pharmacy etc, nes",Malaysia,Kg,20,36
+12119090,"Other plants or parts, of a kind used in p erfumery, pharmacy etc, nes",Myanmar,Kg,182000,11420
+13021900,"Other vegetable saps and extracts, nes",India,Kg,26820,1764
+14019000,"Vegetable materials for plaiting, (excl. b amboos and rattans)",Australia,Kg,174,128
+14019000,"Vegetable materials for plaiting, (excl. b amboos and rattans)",United States,Kg,3535,2507
+14049010,Semi processed catechu of acacia (liquid ka tha),India,Kg,84615,12692
+14049020,Cetechu of acacia (Kattha),India,Kg,102760,87477
+14049040,Heart leaf (Pan ko Pat),France,Kg,500,232
+14049050,Rudrakshya seeds,China,Kg,2858,248
+14049050,Rudrakshya seeds,India,Kg,0,0
+14049060,Peal of edqeworthia crysantha(Mitusmata)(Ar eli ko bokra),Japan,Kg,6000,4283
+14049070,Shop nut,India,Kg,29296,3524
+14049080,Broom grass (Amriso),India,Kg,1011810,50545
+14049090,Other vegetable products,China,Kg,9426,1347
+15079000,Soya-bean oil (excl. crude) and fractions,India,Kg,5034327,1596272
+15119010,"Palm oil (excl. crude) and its fractions,r efined or not but not chemically modifi",India,LTR,6189052,1281361
+15119020,Refined bleached deodorized palm olein,India,LTR,7099742,1443714
+15119090,"Palm oil (excl. crude) and its fractions,r efined or not but not chemically modifi",India,LTR,2987232,1017632
+15121900,Sunflower-seed and safflower oil (excl. cr ude) and fractions thereof,India,LTR,346987,79189
+15159000,"Other fixed vegetable fats and fractions,   es",India,LTR,24140,3901
+15159000,"Other fixed vegetable fats and fractions,   es",Japan,LTR,34,325
+16041200,Prepared or preserved herrings (excl. minc ed),United Arab Emirates,Kg,55,18
+17021100,Lactose and lactose syrup containing by we ight>=99% lactose calculated on the dry,United States,Kg,785,255
+17029020,"Artificial Honey, Weather or not mixed with natural honey",Japan,Kg,220,64
+17029020,"Artificial Honey, Weather or not mixed with natural honey",United States,Kg,262,763
+17029090,Other Sugar and sugar syrup blends containing in the dry strait 50% by,India,Kg,100,8
+17031000,Cane molasses resulting from the extractio   or refining of sugar,India,Kg,650510,9159
+17049000,"Sugar confectionery (incl white chocolate )_  not containing cocoa, nes....",Australia,Kg,392,18
+17049000,"Sugar confectionery (incl white chocolate )_  not containing cocoa, nes....",India,Kg,4275,1020
+18061000,"Cocoa powder, containing added sugar or ot  er sweetening matter",United States,Kg,13848,3908
+18062000,"Chocolate, etc, containing cocoa, in block  , slabs or bars >2kg",Australia,Kg,63,9
+19019090,"Food prep's of goods of hdgs 0401-0404 or  of flour, meal, etc not cont'g cocoa",Hong Kong,Kg,9600,1753
+19021100,Uncooked pasta containing eggs not stuffed,India,Kg,38891,9081
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",Australia,Kg,41727,14299
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",India,Kg,335255,55554
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",Japan,Kg,31158,8813
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",Malaysia,Kg,14795,10151
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",Singapore,Kg,4905,1349
+19021900,"Uncooked pasta, not containing eggs, not s tuffed",United States,Kg,65773,15700
+19023000,"Other pasta, nes .",Australia,Kg,30309,11512
+19023000,"Other pasta, nes .",India,Kg,336555,58042
+19023000,"Other pasta, nes .",United Arab Emirates,Kg,11061,3223
+19041099,Other Prepared foods obtained by the swelling or  roasting of cereals product,Australia,Kg,35,35
+19042000,Prepared foods obtained from unroasted cer eal flakes or mixtures of unroasted & r,Australia,Kg,55511,20776
+19042000,Prepared foods obtained from unroasted cer eal flakes or mixtures of unroasted & r,Hong Kong,Kg,2730,94
+19042000,Prepared foods obtained from unroasted cer eal flakes or mixtures of unroasted & r,Japan,Kg,1426,820
+19042000,Prepared foods obtained from unroasted cer eal flakes or mixtures of unroasted & r,United Kingdom,Kg,230,280
+19042000,Prepared foods obtained from unroasted cer eal flakes or mixtures of unroasted & r,United States,Kg,6700,958
+19049020,Beaten Rice (Chiura),Australia,Kg,8941,2194
+19049020,Beaten Rice (Chiura),India,Kg,11590,1001
+19049020,Beaten Rice (Chiura),Japan,Kg,9047,5472
+19049020,Beaten Rice (Chiura),United Kingdom,Kg,17643,3167
+19049020,Beaten Rice (Chiura),United States,Kg,39279,18710
+19049090,Other prepared cereals in grain form (excl . maize) nes.,Australia,Kg,30,27
+19053100,Sweet biscuits,Australia,Kg,49,166
+19059020,"Kurkure, Kurmure, Lays, Cheeseballs",India,Kg,4169,2126
+19059090,Other bakers' wares nes,Australia,Kg,2550,920
+19059090,Other bakers' wares nes,Qatar,Kg,9569,5652
+20019000,"Other vegetables, fruits, etc, preserved by vinegar or acetic acid, nes",Australia,Kg,40,23
+20019000,"Other vegetables, fruits, etc, preserved by vinegar or acetic acid, nes",United States,Kg,8186,4333
+20052010,Potatoes for frozen for French Fries  .,Australia,Kg,119,14
+20091100,"Frozen orange juice, unfermented, not cont  ining added spirit",India,LTR,675839,57585
+20091900,"Unfrozen orange juice, unfermented, not co  taining added spirit.",Bangladesh,LTR,2400,231
+20092100,Grapefruit juice of a brix value <=20,India,LTR,41236,2712
+20094100,Pineapple juice of a brix value <=20  .,India,LTR,351067,30321
+20095000,"Tomato juice, unfermented, not containing   dded spirit",India,LTR,5400,346
+20097100,Apple juice of a brix value <=20  .,India,LTR,245610,21356
+20097900,Other apple juice,Bangladesh,LTR,2400,188
+20098100,"Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingonberry (Vaccinium",Bangladesh,LTR,1200,97
+20099000,"Mixtures of juices, unfermented, not conta  ning added spirit.",Bangladesh,LTR,1800,639
+20099000,"Mixtures of juices, unfermented, not conta  ning added spirit.",India,LTR,2749455,205022
+21032000,Tomato ketchup and other tomato sauces,Australia,Kg,55,20
+21039010,"Sauces and sauce preparations; mixed condi ments and seasonings, nes",Australia,Kg,63,147
+21039010,"Sauces and sauce preparations; mixed condi ments and seasonings, nes",India,Kg,5000,4200
+21039020,Pickle,Australia,Kg,878,975
+21039020,Pickle,Italy,Kg,17464,8739
+21039020,Pickle,"Korea, Republic of",Kg,5243,1446
+21039020,Pickle,United States,Kg,22440,13809
+21039090,Other Sauces and preparations,Australia,Kg,109,7
+21039090,Other Sauces and preparations,India,Kg,3225,264
+21069010,"Dalmot,Papad,salted,Bhujia and Chamena(tit bits).",Australia,Kg,90,69
+21069010,"Dalmot,Papad,salted,Bhujia and Chamena(tit bits).",India,Kg,9515,1676
+21069099,Other Food Preparations,Australia,Kg,84,24
+22011010,"Mineral waters and aerated waters, unsweet ened",India,LTR,70,0
+22021000,"Waters (incl. mineral and aerated), with a dded sugar, sweetener, etc.",India,LTR,998368,57734
+22029910,Energy Drink,India,LTR,8976,1553
+22030000,Beer made from malt,Australia,LTR,36432,6224
+22030000,Beer made from malt,India,LTR,32400,1843
+22030000,Beer made from malt,Japan,LTR,17432,2821
+22084092,Rum and other spirits of an alcoholic strength 25UP (42.8%),Japan,LTR,10134,7953
+22084092,Rum and other spirits of an alcoholic strength 25UP (42.8%),United States,LTR,5334,4994
+22086010,Raw Material of Vodka (alcoholic fluids in  l spirits) <80% alcohol,Australia,LTR,252,870
+23024000,"Brans, sharps and other residues of other  cereals",Canada,Kg,85,19
+23024000,"Brans, sharps and other residues of other  cereals",India,Kg,1249440,48921
+23024000,"Brans, sharps and other residues of other  cereals",United States,Kg,240,141
+23033000,Brewing or distilling dregs and waste,Bangladesh,Kg,21000,1688
+23033000,Brewing or distilling dregs and waste,India,Kg,484660,920
+23040000,"Oil-cake and other solid residues, of soyabean",India,Kg,119060,9525
+23064100,Oil-cake of low erucic acid rape or colza  seeds,India,Kg,5000720,202393
+23069000,"Til Ko Pina, Oil cake",India,Kg,21100,1080
+23091000,"Dog or cat food, put up for retail sale",Canada,Kg,8402,18733
+23091000,"Dog or cat food, put up for retail sale",Greece,Kg,371,1795
+23091000,"Dog or cat food, put up for retail sale",Hong Kong,Kg,12717,1380
+23091000,"Dog or cat food, put up for retail sale",Japan,Kg,1224,2521
+23091000,"Dog or cat food, put up for retail sale","Korea, Republic of",Kg,205,181
+23091000,"Dog or cat food, put up for retail sale",Thailand,Kg,50,129
+23091000,"Dog or cat food, put up for retail sale",United Arab Emirates,Kg,151,381
+23091000,"Dog or cat food, put up for retail sale",United Kingdom,Kg,1317,1936
+23091000,"Dog or cat food, put up for retail sale",United States,Kg,69817,141204
+23099000,"Other preparations of a kind used in anima l feeding, nes",India,Kg,49760,13216
+24022023,Cigrettee with filter 75-85MM,Germany,STK,3200,41
+24039910,"JARDA,chewing tobacco,nus and tobacco mixe   products (inc toothpaste)",Malaysia,Kg,5600,3416
+25010020,Black Salt [Sindhe Bire Kalo Noon ],Australia,Kg,92,14
+25010090,Other salt,Japan,Kg,4,3
+25059000,"Other natural sands, (excl metal-bearing  s nds of chapter 26), nes",United Kingdom,Kg,2,4
+25210000,Limestone flux; limestone and other calcar eous stone,India,Kg,439000,1431
+25232900,Portland cement (excl white)  .,India,TNE,33157,4929
+25301000,"Vermiculite, perlite and chlorites (unexpa  ded)",France,Kg,59,4
+26190000,"Slag, dross, sealings & other waste, from   he manufacture of iron or steel",Bhutan,TNE,900,12800
+28333000,Alums  .,Australia,Kg,30,5
+30024100,Vaccines for human medicine,Angola,PCS,200,104
+30024200,Vaccines for veterinary medicine,Angola,PCS,200,130
+30029090,"Human and Animal Blood; Microbial Cultures   Toxins, etc, nes",United Kingdom,Kg,4,1730
+30031000,Medicaments ofpenicillins or streptomyc ins  not for retail sale,Ireland,Kg,15,17
+30039010,Homoeopathic medicaments(pure ayurvedic an   yunani),India,Kg,185218,94838
+30039010,Homoeopathic medicaments(pure ayurvedic an   yunani),Italy,Kg,62,972
+30039040,"Battisa, Draskchhyasab, Trifala, Kabjahar,  Chyawanprash, Keshari Jiwan including",India,Kg,92805,171014
+30042000,"Medicaments of other antibiotics, for reta  l sale",Japan,Kg,14,193
+30049010,Homoeopathic medicaments(Pure ayurvedic an   yunani),United States,Kg,5,124
+30049050,Menthol and campoor containing balms or alike,Australia,Kg,84,8
+30049090,Other - Medicaments put up in measured dos  s or in forms or packing for retail s,India,Kg,20040,17128
+32019090,--- Other tanning extracts of vegetable or  gin nes.,India,Kg,39950,10547
+32030010,Khayar Kachchha  .(Extract of cutch),India,Kg,140950,5576
+32061900,"Pigments and preparations based on titaniu   dioxide, cont'g < 80% titanium dioxi",Australia,Kg,567,4
+32131000,Colours in sets,United Kingdom,Kg,4,15
+33012900,"Essential oils (incl concretes and absolu t s), nes.",France,LTR,200,2296
+33012900,"Essential oils (incl concretes and absolu t s), nes.",India,LTR,250,10000
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Australia,LTR,60,1164
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Belgium,LTR,224,941
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Canada,LTR,51,1138
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",China,LTR,53,963
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",France,LTR,280,535
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Germany,LTR,10,792
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",India,LTR,600,3504
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Japan,LTR,540,917
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",Slovenia,LTR,275,1340
+33019000,"Concentrates of essential oils in fats  aqu ous distillates, extracted oleoresi",United States,LTR,1854,22520
+33061000,Dentifrices   .,India,Kg,17750,9313
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Australia,Kg,27,175
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Bhutan,Kg,80,13
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Chile,Kg,265,17
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,China,Kg,2476,379
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Czech Republic,Kg,13,62
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,France,Kg,111,427
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Germany,Kg,128,247
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Hong Kong,Kg,20,49
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Indonesia,Kg,1414,90
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Italy,Kg,81,180
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Japan,Kg,380,441
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Lithuania,Kg,118,436
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Malaysia,Kg,122,22
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Netherlands,Kg,18,13
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,New Zealand,Kg,4,6
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Poland,Kg,82,36
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Singapore,Kg,165,49
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,South Africa,Kg,5,19
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Switzerland,Kg,4,2
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,"Taiwan, Province of China",Kg,3,7
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,United Kingdom,Kg,208,378
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,United States,Kg,2537,2207
+33074100,Agarbatti and other odiferous preparations  which operate by burning.,Viet Nam,Kg,25,16
+34012010,"Soap in other forms, nes  .",United States,Kg,15,12
+38051000,"Gum, wood or sulphate turpentine oils",India,LTR,153890,24196
+38061000,Rosin and resin acids,India,Kg,607800,112621
+38231100,Stearic acid,India,Kg,115670,8328
+38231900,Industrial monocarboxylic fatty acids & ac  d oils from refining nes.,India,Kg,208810,19416
+39012000,"Polyethylene having a specific gravity >=0  4, in primary forms.",India,Kg,80,4
+39172100,"Tubes, pipes and hoses, rigid, of polymers  of ethylene.",India,Kg,8822,2186
+39181090,Wall or Celling coverings and others of polymer of vinyl chloride,India,Kg,38981,6237
+39201010,"Plates, of polymers of ethylene, not re inf rced, etc",India,Kg,46574,11082
+39211490,"Cellular plates, strips of polymers of  reg nerated cellulose",India,Kg,2017,288
+39232100,Sacks & bags of polymers of ethylene  . .,India,Kg,3213,1229
+39232900,Sacks & Bags of other plastics,Canada,Kg,130,57
+39233010,Pet bottle (bottle pre-form) of plastics  .,India,Kg,75051,15940
+39233090,"Other - Carboys, bottles, flasks and simil  r articles nes of plastics",India,Kg,118825,25530
+39235000,"Stoppers, lids, caps and other closures of  plastics",India,Kg,80103,29232
+39239090,Other Packing of goods,India,Kg,48177,11086
+41015000,"Whole hides and skins, of a weight exceedi  g 16 kgÃ",Mexico,Kg,24,38
+41015000,"Whole hides and skins, of a weight exceedi  g 16 kgÃ",United States,Kg,7,19
+41041100,"Leather of bovine or equine  in the wet  st te, full grains, unsplit; grains spÃ .",India,Kg,51000,2857
+41041900,"Other, leather of bovine or equine animals   in the wet state (inclwet blue)",Germany,Kg,24050,5526
+41041900,"Other, leather of bovine or equine animals   in the wet state (inclwet blue)",India,Kg,130000,10152
+41041900,"Other, leather of bovine or equine animals   in the wet state (inclwet blue)",Viet Nam,Kg,42880,5023
+41051000,"Tanned or crust skins of sheep or lambs, w  thout wool, in the wet state (inclÃ ..",Belgium,Kg,19,102
+41051000,"Tanned or crust skins of sheep or lambs, w  thout wool, in the wet state (inclÃ ..",Czech Republic,Kg,19,127
+41051000,"Tanned or crust skins of sheep or lambs, w  thout wool, in the wet state (inclÃ ..",France,Kg,67,383
+41051000,"Tanned or crust skins of sheep or lambs, w  thout wool, in the wet state (inclÃ ..",Russian Federation,Kg,19,101
+41051000,"Tanned or crust skins of sheep or lambs, w  thout wool, in the wet state (inclÃ ..",Spain,Kg,18,127
+41062100,Tanned or crust hides and skins or goats or kids in the wet state (including wet.,Italy,Kg,16510,11783
+41079900,"Other, including hides (leather) nes  .",Indonesia,Kg,71196,7628
+41141000,chamois (including combination chamois) le  ther,India,Kg,25000,981
+42021200,"Trunks, suit-cases, etc, with outer sur fac  of plastic or textiles",United States,PCS,266,78
+42022200,Handbags with outer surface of plastic she  ting or textile materials,India,PCS,450,162
+42022200,Handbags with outer surface of plastic she  ting or textile materials,New Zealand,PCS,41,17
+42022200,Handbags with outer surface of plastic she  ting or textile materials,United Kingdom,PCS,4960,234
+42022200,Handbags with outer surface of plastic she  ting or textile materials,United States,PCS,1063,730
+42023100,"Articles normally carried in pocket or han  bag, of leather",Germany,PCS,9725,1375
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Canada,PCS,40,76
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",France,PCS,412,89
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Germany,PCS,421,305
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Greece,PCS,6000,147
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Japan,PCS,19125,6237
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.","Korea, Republic of",PCS,550,252
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Malaysia,PCS,644,58
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Spain,PCS,10329,2442
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",Switzerland,PCS,171,13
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.","Taiwan, Province of China",PCS,892,171
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",United Kingdom,PCS,350,311
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",United States,PCS,17802,7197
+44123100,With at least one outer ply of tropical woo  specified in Subhead. Note 2 to this,India,MTQ,16422,48803
+44123900,Other plywood consisting solely of sheets   f wood,India,MTQ,46811,20321
+44129900,"Other, with both outer plies of coniferous wood",India,Kg,2905918,91661
+44151000,"Cases, boxes, crates, drums and similar pa  kings of wood; cable-drums",France,PCS,22,7
+44151000,"Cases, boxes, crates, drums and similar pa  kings of wood; cable-drums",United States,PCS,31,1037
+44152000,"Pallets, box pallets and other load boards  of wood; pallet collars of wood",United States,PCS,4,104
+44181900,Other,India,PCS,30,28
+44182100,Of tropical wood,India,PCS,1100,860
+44209000,"Wood marquetry, inlaid wood; caskets & cas  s for jewellery a similar article of",United States,Kg,3055,25439
+44211000,Clothes hangers of wood,Belgium,Kg,24,4
+44211000,Clothes hangers of wood,Bhutan,Kg,2,1
+44211000,Clothes hangers of wood,Malaysia,Kg,50,19
+44211000,Clothes hangers of wood,Singapore,Kg,4,25
+44211000,Clothes hangers of wood,Slovenia,Kg,70,96
+44211000,Clothes hangers of wood,Switzerland,Kg,1,2
+44211000,Clothes hangers of wood,United States,Kg,237,60
+44219910,Others,Italy,Kg,500,662
+48021000,Hand-made paper and paperboard,Australia,Kg,531,2231
+48021000,Hand-made paper and paperboard,Austria,Kg,260,944
+48021000,Hand-made paper and paperboard,Belgium,Kg,74,200
+48021000,Hand-made paper and paperboard,Bulgaria,Kg,600,1933
+48021000,Hand-made paper and paperboard,Canada,Kg,444,3283
+48021000,Hand-made paper and paperboard,China,Kg,4640,710
+48021000,Hand-made paper and paperboard,France,Kg,1166,2917
+48021000,Hand-made paper and paperboard,Germany,Kg,4450,5534
+48021000,Hand-made paper and paperboard,Hong Kong,Kg,1840,268
+48021000,Hand-made paper and paperboard,India,Kg,1220,59
+48021000,Hand-made paper and paperboard,Italy,Kg,452,1039
+48021000,Hand-made paper and paperboard,Japan,Kg,3563,15526
+48021000,Hand-made paper and paperboard,Netherlands,Kg,211,1443
+48021000,Hand-made paper and paperboard,Poland,Kg,4,2
+48021000,Hand-made paper and paperboard,South Africa,Kg,5,0
+48021000,Hand-made paper and paperboard,Sweden,Kg,755,5066
+48021000,Hand-made paper and paperboard,Switzerland,Kg,386,1827
+48021000,Hand-made paper and paperboard,United Arab Emirates,Kg,2820,1865
+48021000,Hand-made paper and paperboard,United Kingdom,Kg,1246,6663
+48021000,Hand-made paper and paperboard,United States,Kg,5052,22894
+48025700,Other paper & paperboard weighing 40 g/m2   r more but not more than 150 g/m2,India,Kg,45900,5074
+48026900,"Other paper or paperboard, >10% of mechani  al or semi mechanical process fibre n",India,Kg,20000,155
+48043900,"Kraft paper (excl unbleached), weighin g =< 50g/m2",United States,Kg,1389,508
+48045900,"Kraft paper, weighing >=225g/m2, nes",India,Kg,493983,27455
+48109900,"Other paper and paperboard, nes",India,Kg,738982,57260
+48171000,Envelopes of paper or paperboard  .,New Zealand,Kg,1219,3577
+48192000,"Folding cartons, boxes and cases, of non-c  rrugated paper or paperboard.",India,Kg,156,112
+48196000,"Box files, letter trays, storage boxes, et  , of paper",Germany,Kg,10980,9009
+48196000,"Box files, letter trays, storage boxes, et  , of paper",United Kingdom,Kg,5018,12931
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",France,PCS,8,0
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",India,PCS,58,8
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",Japan,PCS,771,8
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",Poland,PCS,49,4
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",United States,PCS,30,5
+49021000,"Newspapers, journals and periodicals, appe  ring at least four times a week",Germany,Kg,990,392
+49070090,"Unused postage, stamp-impressed paper;  ban  note, stock, share, cheque forms,",India,Kg,8,4
+49070090,"Unused postage, stamp-impressed paper;  ban  note, stock, share, cheque forms,",United Arab Emirates,Kg,2935,659
+49111000,"Trade advertising material, commercial cat  logues and the like",Australia,Kg,206,80
+49111000,"Trade advertising material, commercial cat  logues and the like",Bangladesh,Kg,90,13
+49111000,"Trade advertising material, commercial cat  logues and the like",China,Kg,44,13
+49111000,"Trade advertising material, commercial cat  logues and the like",Egypt,Kg,90,13
+49111000,"Trade advertising material, commercial cat  logues and the like",Hong Kong,Kg,40,13
+49111000,"Trade advertising material, commercial cat  logues and the like",India,Kg,36,25
+49111000,"Trade advertising material, commercial cat  logues and the like",Israel,Kg,90,13
+49111000,"Trade advertising material, commercial cat  logues and the like",Japan,Kg,274,38
+49111000,"Trade advertising material, commercial cat  logues and the like",Russian Federation,Kg,90,13
+49111000,"Trade advertising material, commercial cat  logues and the like",South Africa,Kg,35,13
+49111000,"Trade advertising material, commercial cat  logues and the like",Thailand,Kg,80,26
+49111000,"Trade advertising material, commercial cat  logues and the like",United Kingdom,Kg,52,87
+49111000,"Trade advertising material, commercial cat  logues and the like",United States,Kg,201,78
+52029900,"Cotton waste, nes",India,Kg,9000,576
+52083900,"Dyed woven cotton fabrics, with >=85% cott  n, <200 g/m2 by weight, nes",China,SQM,5875,107
+53021000,"True hemp, raw or retted  .",Australia,Kg,4,2
+53021000,"True hemp, raw or retted  .",Poland,Kg,20,19
+53021000,"True hemp, raw or retted  .",United States,Kg,251,100
+53039000,"Jute, etc (excl flax, true hemp and ramie )  nes; tow and waste of these fibres",India,Kg,2310,684
+53072000,Multiple or cabled yarn of jute or of othe   textile bast fibres of heading 5303.,India,Kg,466770,56656
+53082000,True hemp yarn of other vegetable textile   ibres,India,Kg,1750,2870
+53101000,Unbleached woven fabrics of jute or of oth  r textile bast fibre of heading 5303.,India,SQM,2338423,89448
+53109000,Woven fabrics of jute or other textile bas   fibres of heading 5303 (excl unble,India,SQM,8375944,377423
+54072000,Woven fabrics obtained from synthetic stri   or the like,India,SQM,14357760,192234
+55081000,Sewing thread of synthetic staple fibres  .,Turkey,Kg,41984,16939
+55092100,"Single yarn, with >=85% polyester staple f  bres, nprs",India,Kg,1499465,351906
+55092200,"Multiple or cabled yarn, with >=85% polyes  er staple fibres, nprs",India,Kg,194708,47952
+55093100,"Single yarn, with >=85% acrylic or modacry  ic staple fibres, nprs",India,Kg,60260,33344
+55093200,"Multiple or cabled yarn, >=85% acrylic or   odacrylic staple fibres, nprs",India,Kg,167849,77996
+55095100,"Other yarn, <85% polyester staple fibres,   ith artificial staple fibres, nprs",India,Kg,455623,140112
+55095100,"Other yarn, <85% polyester staple fibres,   ith artificial staple fibres, nprs",Italy,Kg,23900,10666
+55095100,"Other yarn, <85% polyester staple fibres,   ith artificial staple fibres, nprs",Turkey,Kg,187617,91262
+55095200,"Other yarn, <85% polyester staple fibres,   ith wool or fine animal hair, nprs",India,Kg,5392,1376
+55101100,"Single yarn (other than sewing thread), wi  h >=85% artificial staple fibres, npr",India,Kg,275885,95769
+55101200,"Multiple or cabled yarn, with >=85% artifi  ial staple fibres, nprs",India,Kg,46688,17347
+56021000,Needleloom felt and stitch-bonded fibre fa  rics,Norway,Kg,270,1037
+56022100,"Felt of wool or fine animal hair (excl im p egnated, coated, etc)",United States,Kg,24387,22464
+56029000,"Felt, nes  .",Australia,Kg,3772,14838
+56029000,"Felt, nes  .",Austria,Kg,15,92
+56029000,"Felt, nes  .",Canada,Kg,4446,21009
+56029000,"Felt, nes  .",China,Kg,6046,24311
+56029000,"Felt, nes  .",Denmark,Kg,22431,63436
+56029000,"Felt, nes  .",Finland,Kg,318,254
+56029000,"Felt, nes  .",France,Kg,2649,6010
+56029000,"Felt, nes  .",Germany,Kg,16254,39993
+56029000,"Felt, nes  .",Israel,Kg,500,465
+56029000,"Felt, nes  .",Japan,Kg,3237,12167
+56029000,"Felt, nes  .","Korea, Republic of",Kg,2081,3240
+56029000,"Felt, nes  .",Latvia,Kg,13,128
+56029000,"Felt, nes  .",Many Countries,Kg,70,19
+56029000,"Felt, nes  .",Mexico,Kg,211,741
+56029000,"Felt, nes  .",Netherlands,Kg,7538,14617
+56029000,"Felt, nes  .",New Zealand,Kg,1094,6284
+56029000,"Felt, nes  .",Norway,Kg,1407,7045
+56029000,"Felt, nes  .",Poland,Kg,1554,6637
+56029000,"Felt, nes  .",South Africa,Kg,38,316
+56029000,"Felt, nes  .",Spain,Kg,2605,5308
+56029000,"Felt, nes  .",Sweden,Kg,2239,6573
+56029000,"Felt, nes  .",Switzerland,Kg,38,515
+56029000,"Felt, nes  .","Taiwan, Province of China",Kg,317,254
+56029000,"Felt, nes  .",Ukraine,Kg,16,71
+56029000,"Felt, nes  .",United Arab Emirates,Kg,6978,4093
+56029000,"Felt, nes  .",United Kingdom,Kg,8787,31034
+56029000,"Felt, nes  .",United States,Kg,110700,350698
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Australia,SQM,999,13546
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Austria,SQM,441,12311
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Belgium,SQM,566,12385
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Canada,SQM,1527,36497
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Chile,SQM,55,225
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",China,SQM,3876,13473
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Denmark,SQM,69,762
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Finland,SQM,9,257
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",France,SQM,913,31110
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Germany,SQM,2199,61872
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Hong Kong,SQM,42,1502
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Indonesia,SQM,218,882
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Italy,SQM,987,25925
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Japan,SQM,4270,1595
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.","Korea, Republic of",SQM,6,119
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Latvia,SQM,44,416
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Lebanon,SQM,47,1643
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Lithuania,SQM,8,116
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Many Countries,SQM,25,19
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Netherlands,SQM,79,1705
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",New Zealand,SQM,5,139
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Poland,SQM,2,13
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Russian Federation,SQM,41,1581
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Saudi Arabia,SQM,114,2242
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",South Africa,SQM,57,879
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Spain,SQM,63,1796
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Sweden,SQM,41,1267
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",Switzerland,SQM,660,21082
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",United Arab Emirates,SQM,1018,15003
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",United Kingdom,SQM,2816,93639
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",United States,SQM,18749,568174
+57019000,"Carpets and other textile floor coverings,  of other textiles, knotted",United States,SQM,59,3472
+57024200,"Pile floor coverings of man-made textiles,  woven, made up",India,SQM,50804,19340
+57024910,Carpets and floor covering of felt,India,SQM,16183,4556
+57032900,Other,India,SQM,10956,4010
+57033900,Other,India,SQM,21265,5939
+57039090,Other floor covering (excluding cotton) ne,India,SQM,25770,6937
+61033300,"Men's or boys' jackets & blazers of synthe  ic fibres, knitted or crocheted",India,PCS,24714,13793
+61034200,"Men's or boys' trousers, bib & brace, shor  s, etc, of cotton, knitted or crochet",United States,PCS,127,81
+61043200,"Women's or girls' jackets & brazers of cot  on, knitted or crocheted.",Germany,PCS,3380,3868
+61043200,"Women's or girls' jackets & brazers of cot  on, knitted or crocheted.",United States,PCS,14734,3788
+61044200,"Woman's or girls' dresses of cotton, knitt  d or crocheted",Finland,PCS,1899,2257
+61044200,"Woman's or girls' dresses of cotton, knitt  d or crocheted",Italy,PCS,1520,855
+61044200,"Woman's or girls' dresses of cotton, knitt  d or crocheted",United States,PCS,4087,4939
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",Australia,PCS,300,535
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",Czech Republic,PCS,432,400
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",Germany,PCS,4204,3484
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",Italy,PCS,666,71
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",United Arab Emirates,PCS,555,238
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",United States,PCS,5039,1972
+61051000,"Men's or boys' shirts of cotton, knitted o   crocheted",United States,PCS,386,230
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",Canada,PCS,4000,3850
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",Czech Republic,PCS,32,47
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",Germany,PCS,360,264
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",India,PCS,748,101
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",Japan,PCS,152,459
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",New Zealand,PCS,49,130
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",United States,PCS,1346,1329
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Austria,PCS,987,5742
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Denmark,PCS,56,518
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",France,PCS,47,337
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Germany,PCS,473,3332
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",India,PCS,1,1
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Ireland,PCS,167,1480
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Italy,PCS,45,181
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",Japan,PCS,1933,5854
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr","Korea, Republic of",PCS,748,9206
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",New Zealand,PCS,24,144
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",United Kingdom,PCS,1897,22856
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",United States,PCS,2047,5686
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Austria,PCS,11,64
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Canada,PCS,8869,7308
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Denmark,PCS,2023,11568
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",France,PCS,6113,28442
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Germany,PCS,3417,15885
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Ireland,PCS,94,323
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Italy,PCS,2189,13336
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Japan,PCS,8060,10321
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Mauritius,PCS,1310,1603
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Netherlands,PCS,24022,6170
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",New Zealand,PCS,1196,1286
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Norway,PCS,957,6656
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Singapore,PCS,2951,107
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Spain,PCS,705,134
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Sweden,PCS,805,6431
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",Switzerland,PCS,3129,849
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa","Taiwan, Province of China",PCS,18,10
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",United Kingdom,PCS,17829,11282
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",United States,PCS,28611,46278
+61101900,"Other jerseys,pullovers,cardigans,waistcoa  s&similar articles,knitted or crochet",Italy,PCS,95,400
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",Australia,PCS,23,142
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",Canada,PCS,282,195
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",France,PCS,5483,29988
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",Germany,PCS,1123,14959
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",United Kingdom,PCS,1069,4959
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",United States,PCS,420,3129
+61112000,"Babies' garments & clothing accessories of  cotton, knitted or crocheted.",Spain,PCS,385,417
+61121200,"Track-suits of synthetic fibres, knitted o   crocheted",Netherlands,PCS,19,33
+61159400,Other hosiery of wool or fine animal hair   .,Germany,PR,628,1482
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",Belgium,PR,770,160
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",Canada,PR,4675,2578
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",Germany,PR,4230,1299
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",Netherlands,PR,8024,4040
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",United Kingdom,PR,28539,10697
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",United States,PR,6803,7154
+61171000,"Shawls, scarves, mufflers, mantillas, veil  , etc, knitted or crocheted",Netherlands,PCS,80,577
+61171000,"Shawls, scarves, mufflers, mantillas, veil  , etc, knitted or crocheted",Spain,PCS,79,661
+61171000,"Shawls, scarves, mufflers, mantillas, veil  , etc, knitted or crocheted",United Kingdom,PCS,452,3003
+61178000,"Other clothing accessories, knitted or cro  heted, nes",United States,PCS,195,223
+61179000,"Parts of garments or clothing accessories,  knitted or crocheted",United States,PCS,234,283
+62033100,Men's or boys' jackets and blazers of wool  or fine animal hair,Italy,PCS,294,94
+62033100,Men's or boys' jackets and blazers of wool  or fine animal hair,United Arab Emirates,PCS,14,126
+62033100,Men's or boys' jackets and blazers of wool  or fine animal hair,United States,PCS,12,226
+62033300,Men's or boys' jackets and blazers of synt  etic fibres,India,PCS,4356,3897
+62041200,Women's or girls' suits of cotton   .,India,PCS,28,7
+62041900,"Women's or girls' suits of other textiles   aterials, nes",United States,PCS,34588,14644
+62042900,"Women's or girls' ensembles of other texti  es materials, nes",Canada,PCS,3369,474
+62043100,Women's or girls' jackets and blazers of w  ol or fine animal hair,Australia,PCS,155,25
+62043100,Women's or girls' jackets and blazers of w  ol or fine animal hair,Germany,PCS,415,1102
+62043100,Women's or girls' jackets and blazers of w  ol or fine animal hair,Netherlands,PCS,60,150
+62043100,Women's or girls' jackets and blazers of w  ol or fine animal hair,New Zealand,PCS,1128,882
+62043200,Women's or girls' jackets and blazers of c  tton.,Australia,PCS,692,210
+62043200,Women's or girls' jackets and blazers of c  tton.,Canada,PCS,3897,1044
+62043200,Women's or girls' jackets and blazers of c  tton.,Czech Republic,PCS,404,103
+62043200,Women's or girls' jackets and blazers of c  tton.,Germany,PCS,1150,3263
+62043200,Women's or girls' jackets and blazers of c  tton.,Ireland,PCS,1960,4001
+62043200,Women's or girls' jackets and blazers of c  tton.,Italy,PCS,306,2082
+62043200,Women's or girls' jackets and blazers of c  tton.,Japan,PCS,1523,1038
+62043200,Women's or girls' jackets and blazers of c  tton.,Malaysia,PCS,1449,1469
+62043200,Women's or girls' jackets and blazers of c  tton.,Netherlands,PCS,13667,16180
+62043200,Women's or girls' jackets and blazers of c  tton.,New Zealand,PCS,2100,1159
+62043200,Women's or girls' jackets and blazers of c  tton.,Poland,PCS,152,68
+62043200,Women's or girls' jackets and blazers of c  tton.,Singapore,PCS,60,16
+62043200,Women's or girls' jackets and blazers of c  tton.,Sweden,PCS,18,11
+62043200,Women's or girls' jackets and blazers of c  tton.,United Kingdom,PCS,22905,13942
+62043200,Women's or girls' jackets and blazers of c  tton.,United States,PCS,32584,26130
+62044100,Women's or girls' dresses of wool or fine   nimal hair,China,PCS,10885,919
+62044200,Women's or girls' dresses of cotton   .,Australia,PCS,13168,1628
+62044200,Women's or girls' dresses of cotton   .,Belgium,PCS,988,3136
+62044200,Women's or girls' dresses of cotton   .,Bhutan,PCS,390,59
+62044200,Women's or girls' dresses of cotton   .,Canada,PCS,1333,936
+62044200,Women's or girls' dresses of cotton   .,China,PCS,5590,854
+62044200,Women's or girls' dresses of cotton   .,Croatia,PCS,519,647
+62044200,Women's or girls' dresses of cotton   .,Czech Republic,PCS,9467,6588
+62044200,Women's or girls' dresses of cotton   .,Denmark,PCS,2957,1109
+62044200,Women's or girls' dresses of cotton   .,France,PCS,8794,1752
+62044200,Women's or girls' dresses of cotton   .,Germany,PCS,22582,17580
+62044200,Women's or girls' dresses of cotton   .,Greece,PCS,1162,546
+62044200,Women's or girls' dresses of cotton   .,Hong Kong,PCS,505,563
+62044200,Women's or girls' dresses of cotton   .,Ireland,PCS,6040,7011
+62044200,Women's or girls' dresses of cotton   .,Italy,PCS,590,155
+62044200,Women's or girls' dresses of cotton   .,Japan,PCS,8090,95086
+62044200,Women's or girls' dresses of cotton   .,Netherlands,PCS,6444,2443
+62044200,Women's or girls' dresses of cotton   .,Poland,PCS,2600,1083
+62044200,Women's or girls' dresses of cotton   .,Singapore,PCS,147,12
+62044200,Women's or girls' dresses of cotton   .,Spain,PCS,4074,1591
+62044200,Women's or girls' dresses of cotton   .,Sweden,PCS,2558,6478
+62044200,Women's or girls' dresses of cotton   .,Switzerland,PCS,2088,3217
+62044200,Women's or girls' dresses of cotton   .,United Arab Emirates,PCS,4436,3564
+62044200,Women's or girls' dresses of cotton   .,United Kingdom,PCS,23972,17188
+62044200,Women's or girls' dresses of cotton   .,United States,PCS,67546,38688
+62044900,"Women's or girls' dresses of other textile  , nes",Italy,PCS,4,189
+62046100,"Women's or girls' trousers, breeches, etc,  of wool or fine animal hair",United Kingdom,PCS,68,88
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Australia,PCS,10571,4512
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Austria,PCS,1141,331
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Belgium,PCS,297,775
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Bhutan,PCS,7028,1023
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Canada,PCS,2925,2349
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",China,PCS,33362,2005
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Denmark,PCS,2881,3899
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",France,PCS,5650,3065
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Germany,PCS,14031,14060
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Hong Kong,PCS,7731,2668
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Indonesia,PCS,776,242
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Ireland,PCS,624,67
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Italy,PCS,28240,3703
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Japan,PCS,25060,6062
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Netherlands,PCS,713,470
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Portugal,PCS,6592,386
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Romania,PCS,2304,1460
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Singapore,PCS,42483,2913
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Slovakia,PCS,940,296
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Slovenia,PCS,4095,2173
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",South Africa,PCS,4100,1602
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Spain,PCS,895,201
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Sweden,PCS,1178,711
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",Switzerland,PCS,631,163
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",United Arab Emirates,PCS,6069,1630
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",United Kingdom,PCS,31316,14170
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",United States,PCS,152793,47506
+62052000,Men's or boys' shirts of cotton   .,Australia,PCS,2061,5584
+62052000,Men's or boys' shirts of cotton   .,Germany,PCS,1012,1065
+62052000,Men's or boys' shirts of cotton   .,Netherlands,PCS,672,265
+62052000,Men's or boys' shirts of cotton   .,South Africa,PCS,603,425
+62052000,Men's or boys' shirts of cotton   .,United Kingdom,PCS,1095,801
+62052000,Men's or boys' shirts of cotton   .,United States,PCS,17900,15509
+62059000,"Men's or boys' shirts of other textiles ma  erials, nes",Canada,PCS,10878,8825
+62061000,"Women's or girls' blouses, shirts, shirt-b  ouse of silk or silk waste",United States,PCS,20,114
+62063000,"Women's or girls' blouses, shirts, shirt-b  ouse of cotton",United States,PCS,1099,835
+62069000,"Women's or girls' blouses, shirts, shirt-b  ouse of other textiles, nes",United Kingdom,PCS,9,77
+62072100,Men's or boys' nightshirts and pyjamas of   otton,Canada,PCS,71,167
+62141000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of silk or silk waste.",China,PCS,302,42
+62141000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of silk or silk waste.",United Kingdom,PCS,121,63
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Australia,PCS,1899,815
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Austria,PCS,2436,12008
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Belgium,PCS,90,177
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Bhutan,PCS,193,15
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Canada,PCS,734,1306
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Chile,PCS,10198,175
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",China,PCS,35003,998
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Denmark,PCS,54,708
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Finland,PCS,893,3897
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",France,PCS,4106,27951
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Germany,PCS,29487,122777
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Greece,PCS,2,38
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",India,PCS,13574,5138
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Indonesia,PCS,18752,327
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Ireland,PCS,133,698
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Italy,PCS,8611,28555
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Japan,PCS,3471,7004
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Kazakstan,PCS,100,114
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair","Korea, Republic of",PCS,136,707
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Latvia,PCS,46,208
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Malaysia,PCS,86,20
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Netherlands,PCS,3088,11566
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",New Zealand,PCS,5,0
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Oman,PCS,96,182
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Poland,PCS,476,53
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Saudi Arabia,PCS,124,839
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Singapore,PCS,115,461
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",South Africa,PCS,5429,1127
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Spain,PCS,325,1583
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Sweden,PCS,66,471
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",Switzerland,PCS,3795,19730
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair","Taiwan, Province of China",PCS,243,2838
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",United Arab Emirates,PCS,73,176
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",United Kingdom,PCS,3865,22830
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",United States,PCS,13579,43839
+62149000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of other textiles materials, n",Australia,PCS,183,102
+62149000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of other textiles materials, n",China,PCS,125,30
+62149000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of other textiles materials, n",Italy,PCS,53,150
+62149000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of other textiles materials, n",Switzerland,PCS,263,2533
+62149000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of other textiles materials, n",United States,PCS,12,157
+62171000,"Other made up clothing accessories, nes",Australia,PCS,1,7
+62171000,"Other made up clothing accessories, nes",Canada,PCS,2399,739
+62171000,"Other made up clothing accessories, nes",United States,PCS,1130,330
+63012000,"Blankets (excl electric blankets) and tra v lling rugs, of wool or fine animal ha",United States,PCS,1,41
+63019000,"Other blankets and travelling rugs, nes   .",France,PCS,435,6754
+63019000,"Other blankets and travelling rugs, nes   .",Japan,PCS,386,134
+63019000,"Other blankets and travelling rugs, nes   .",Switzerland,PCS,193,59
+63019000,"Other blankets and travelling rugs, nes   .",United States,PCS,14,2018
+63031900,"Curtains, interior blinds, bed, valances o   textile materials, knitted or croche",Singapore,PCS,22,24
+63031900,"Curtains, interior blinds, bed, valances o   textile materials, knitted or croche",Switzerland,PCS,106,8
+63049990,Others of other textile materials,United States,PCS,2595,108
+63051000,Sacks and bags of jute,India,Kg,952706,134562
+63052000,"Sacks and bags, used for packing goods, of  cotton",Australia,Kg,288,913
+63052000,"Sacks and bags, used for packing goods, of  cotton",Bolivia,Kg,16,103
+63052000,"Sacks and bags, used for packing goods, of  cotton",Canada,Kg,450,1472
+63052000,"Sacks and bags, used for packing goods, of  cotton",Czech Republic,Kg,950,1072
+63052000,"Sacks and bags, used for packing goods, of  cotton",Denmark,Kg,35,211
+63052000,"Sacks and bags, used for packing goods, of  cotton",France,Kg,917,1815
+63052000,"Sacks and bags, used for packing goods, of  cotton",Germany,Kg,83,89
+63052000,"Sacks and bags, used for packing goods, of  cotton",Israel,Kg,45,79
+63052000,"Sacks and bags, used for packing goods, of  cotton",Japan,Kg,103,164
+63052000,"Sacks and bags, used for packing goods, of  cotton","Korea, Republic of",Kg,100,205
+63052000,"Sacks and bags, used for packing goods, of  cotton",Malaysia,Kg,100,62
+63052000,"Sacks and bags, used for packing goods, of  cotton",Netherlands,Kg,1663,2754
+63052000,"Sacks and bags, used for packing goods, of  cotton",Philippines,Kg,90,53
+63052000,"Sacks and bags, used for packing goods, of  cotton",Poland,Kg,42,11
+63052000,"Sacks and bags, used for packing goods, of  cotton",Qatar,Kg,2320,1745
+63052000,"Sacks and bags, used for packing goods, of  cotton",South Africa,Kg,150,208
+63052000,"Sacks and bags, used for packing goods, of  cotton",Spain,Kg,3553,8139
+63052000,"Sacks and bags, used for packing goods, of  cotton",United Kingdom,Kg,368,1782
+63052000,"Sacks and bags, used for packing goods, of  cotton",United States,Kg,7837,18918
+63059000,"Sacks and bags, used for packing goods, of  other textiles, nes",France,Kg,2583,4417
+63059000,"Sacks and bags, used for packing goods, of  other textiles, nes",India,Kg,142490,19794
+63071000,"Floor-cloths, dish-cloths, dusters and sim  lar cleaning cloths.",Germany,PCS,855,240
+63071000,"Floor-cloths, dish-cloths, dusters and sim  lar cleaning cloths.",Singapore,PCS,15,4
+63071000,"Floor-cloths, dish-cloths, dusters and sim  lar cleaning cloths.",United States,PCS,192,72
+63079090,Others made up textile article,Denmark,PCS,5,1
+63079090,Others made up textile article,Malaysia,PCS,5,1
+63079090,Others made up textile article,United States,PCS,176580,19475
+63090000,Worn clothing and other worn articles,India,Kg,7100,635
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Australia,Kg,480,44
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Canada,Kg,1470,32
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",France,Kg,75,13
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Germany,Kg,194,20
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",India,Kg,11490,718
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Japan,Kg,105,13
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc","Korea, Republic of",Kg,280,25
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Mali,Kg,275,200
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Pakistan,Kg,135,24
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Serbia,Kg,180,93
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Singapore,Kg,410,13
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",South Africa,Kg,56,82
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Sri Lanka,Kg,54,12
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",Sudan,Kg,95,91
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",United Kingdom,Kg,1226,68
+63101000,"Used or new rags,scrap twine, cordage,rope  & cable&worn out article of twine etc",United States,Kg,2753,126
+64029900,"Other footwear, nes, not covering the ankl  , of rubber or plasticsÃ . [NPR]",India,PAIR,39720,8808
+64041190,Sport footwear having the upper parts of o  her fabric other than cottonÃ  [NPR],India,PAIR,5500,5886
+64041900,"Sports footwear, with rubber or plastic so  es and textile uppersÃ  [NPR]",India,PAIR,106434,42405
+64041900,"Sports footwear, with rubber or plastic so  es and textile uppersÃ  [NPR]",Switzerland,PAIR,3000,2863
+64042000,Footwear with outer soles of leather or co  position leatherÃ . [NPR],Germany,PAIR,34,100
+64042000,Footwear with outer soles of leather or co  position leatherÃ . [NPR],Japan,PAIR,420,383
+64042000,Footwear with outer soles of leather or co  position leatherÃ . [NPR],United States,PAIR,9,3
+64052099,Other footware with uppers of other textil   materials other than cottonÃ  [NPR],India,PAIR,12630,5433
+64062000,Outer soles and heels of rubber and plasti  s,India,PR,31272,4254
+65020000,"Hat-shapes, plaited or made by assembling   trips of any material",Canada,PCS,185,128
+65050011,"Hats and other headgear, knitted or crochet d,or made up from lace, felt or other",United States,Kg,1817,8277
+65050021,Hats of felt,Canada,PCS,875,509
+65050090,Other cap,Belgium,PCS,16,115
+65050090,Other cap,China,PCS,231,16
+65050090,Other cap,New Zealand,PCS,134,76
+65050090,Other cap,United States,PCS,2756,4064
+65070000,"Head-bands, linings, covers, hat foundatio  s, etc, for headgear.",Switzerland,Kg,2,1
+67041900,"False beards, eyebrows and eyelashes, etc,  of synthetic fibres.",Bangladesh,Kg,8040,2840
+67041900,"False beards, eyebrows and eyelashes, etc,  of synthetic fibres.",China,Kg,454,317
+67041900,"False beards, eyebrows and eyelashes, etc,  of synthetic fibres.",Myanmar,Kg,1530,389
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair",Bangladesh,Kg,690,702
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair",Canada,Kg,4,231
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair","Korea, Republic of",Kg,10,1672
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair",Netherlands,Kg,18,2179
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair",United States,Kg,67,4611
+68022300,"Granite, cut/sawn, with flat/even surface",India,Kg,27650,2275
+69120000,"Ceramic tableware, kitchenware, other hous  hold articles (excl porcelain or chin",Netherlands,PCS,961,287
+69120000,"Ceramic tableware, kitchenware, other hous  hold articles (excl porcelain or chin",Poland,PCS,263,95
+69120000,"Ceramic tableware, kitchenware, other hous  hold articles (excl porcelain or chin",Sweden,PCS,1135,395
+69139000,Statuettes and other ornamental articles (  xcl porcelain or china),United States,PCS,422,135
+69141000,"Ceramic articles, nes, of porcelain or chi  a",India,PCS,1314,702
+69141000,"Ceramic articles, nes, of porcelain or chi  a",Netherlands,PCS,551,334
+69141000,"Ceramic articles, nes, of porcelain or chi  a",Sweden,PCS,750,256
+69141000,"Ceramic articles, nes, of porcelain or chi  a",Switzerland,PCS,1530,792
+69141000,"Ceramic articles, nes, of porcelain or chi  a",United States,PCS,906,641
+69149000,"Ceramic articles, nes (excl porcelain or  c ina).",Italy,PCS,175,18
+69149000,"Ceramic articles, nes (excl porcelain or  c ina).",United States,PCS,749,87
+70010000,"Cullet and other waste and scrap of glass, excluding glass from cathode ray tubes or",India,Kg,4519575,38303
+70131000,"Glass-ceramic objects, used for table, kit  hen, toilet, office, indoor decoratio",United States,PCS,333355,51887
+70139100,"Glassware for toilet, office, indoor decor  tions, etc, of lead crystal",France,PCS,71,692
+70179000,"Laboratory, hygienic or pharmaceutical gla  sware, nes",United States,Kg,6,7
+70181010,"Bangles,tika ,tikuli & beds",Australia,GRO,110,10
+70181010,"Bangles,tika ,tikuli & beds",China,GRO,8910,433
+70181010,"Bangles,tika ,tikuli & beds",Croatia,GRO,140,27
+70181010,"Bangles,tika ,tikuli & beds",Germany,GRO,94,337
+70181010,"Bangles,tika ,tikuli & beds",Indonesia,GRO,32,2
+70181010,"Bangles,tika ,tikuli & beds",Japan,GRO,115,39
+70181010,"Bangles,tika ,tikuli & beds",Poland,GRO,7,1
+70181010,"Bangles,tika ,tikuli & beds",United Kingdom,GRO,50,5
+70181010,"Bangles,tika ,tikuli & beds",United States,GRO,2691,4976
+71023900,"Other non-industrial diamonds, not mounted  or set, nesÃ Ã . [CAR]",Australia,CAR,134,11729
+71110000,"Base metals, silver or gold, clad with pla  inum, up to semi-manufactured",United States,GRM,2,276
+71131100,Articles of jewellery and parts thereof of silver,Australia,GRM,253,217
+71131100,Articles of jewellery and parts thereof of silver,Belgium,GRM,2500,437
+71131100,Articles of jewellery and parts thereof of silver,Canada,GRM,2380,375
+71131100,Articles of jewellery and parts thereof of silver,Denmark,GRM,440,64
+71131100,Articles of jewellery and parts thereof of silver,France,GRM,9165,1568
+71131100,Articles of jewellery and parts thereof of silver,Japan,GRM,530,300
+71131100,Articles of jewellery and parts thereof of silver,New Caledonia,GRM,3220,916
+71131100,Articles of jewellery and parts thereof of silver,Switzerland,GRM,2060,350
+71131100,Articles of jewellery and parts thereof of silver,United States,GRM,36135,8269
+71131910,"Jewellery of Gold, including parts",Australia,GRM,855,6018
+71131910,"Jewellery of Gold, including parts",United States,GRM,4162,38536
+71171900,"Imitation jewellery of base metal (incl p l ted), nes",Japan,Kg,11,2922
+71179000,Imitation jewellery (excl of base metal)  n s,Australia,Kg,25,56
+71179000,Imitation jewellery (excl of base metal)  n s,Belgium,Kg,55,32
+71179000,Imitation jewellery (excl of base metal)  n s,Czech Republic,Kg,135,668
+71179000,Imitation jewellery (excl of base metal)  n s,Germany,Kg,28,81
+71179000,Imitation jewellery (excl of base metal)  n s,Hong Kong,Kg,3,109
+71179000,Imitation jewellery (excl of base metal)  n s,India,Kg,50,656
+71179000,Imitation jewellery (excl of base metal)  n s,Indonesia,Kg,1200,12
+71179000,Imitation jewellery (excl of base metal)  n s,Italy,Kg,190,494
+71179000,Imitation jewellery (excl of base metal)  n s,Malaysia,Kg,75,20
+71179000,Imitation jewellery (excl of base metal)  n s,Netherlands,Kg,232,7068
+71179000,Imitation jewellery (excl of base metal)  n s,Poland,Kg,62,46
+71179000,Imitation jewellery (excl of base metal)  n s,South Africa,Kg,1,9
+71179000,Imitation jewellery (excl of base metal)  n s,Sweden,Kg,7,7
+71179000,Imitation jewellery (excl of base metal)  n s,Switzerland,Kg,18,22
+71179000,Imitation jewellery (excl of base metal)  n s,"Taiwan, Province of China",Kg,8,523
+71179000,Imitation jewellery (excl of base metal)  n s,Thailand,Kg,344,299
+71179000,Imitation jewellery (excl of base metal)  n s,United Kingdom,Kg,182,291
+71179000,Imitation jewellery (excl of base metal)  n s,United States,Kg,62,735
+72042100,Waste and scrap of stainless steel,India,Kg,43070,2326
+72061000,"Ingots of iron and non-alloy steel, nes",United States,Kg,1,4
+72072000,"Semi-finished products of iron or non-allo   steel, >=025% carbon",India,Kg,17055,1677
+72091700,"Flat/cold-rolled iron/steel, in coils, wid  h >=600mm, >=05mm but <=1mm thickness",India,Kg,42180,3442
+72091800,"Flat/cold-rolled iron/steel, in coils, wid  h >=600mm, < 05mm thickness",India,Kg,57380,8315
+72092500,"Flat/cold-rolled iron/steel, not in coils,  width >=600mm, >=3mm thickness",India,Kg,109680,7370
+72092600,"Flat/cold-rolled iron/steel, not in coils,  width >=600mm, > 1mm but < 3mm thickn",India,Kg,878260,76336
+72092700,"Flat/cold-rolled iron/steel, not in coils,  width >=600mm, >=05mm but <= 1mm thic",India,Kg,93260,8347
+72092800,"Flat/cold-rolled iron/steel, not in coils,  width >=600mm, < 05mm thickness",India,Kg,125696,14847
+72104100,"Flat-rolled iron/steel,width >=600mm, plat  dwith zinc,(exclelectro-plated)cor",India,Kg,1254936,162726
+72104900,"Flat-rolled iron/steel,width >=600mm, plat  d or coated with zinc(exclelectro-pla",India,Kg,167188,21511
+72106100,"Rolled iron/steel, width >=600mm, plated o   coated with aluminium-zinc alloys",India,Kg,1334556,171744
+72107000,"Rolled iron/steel, width >=600mm, painted,  varnished or coated with plastics",India,Kg,1128872,161207
+72123000,"Flat-rolled iron/steel, width <600mm, plat  d or coated with zinc (excl electro-p",India,Kg,31036,4069
+72124000,"Flat-rolled iron/steel, width <600mm, pain  ed, varnished or coated with plastics",India,Kg,14020,2137
+72125000,"Flat-rolled iron or non-alloy steel, width  <600mm, plated or coated, nes",India,Kg,15356,1971
+72141000,"Iron or non-alloy steel bars and rods, for  ed,.",India,Kg,7998,812
+72172000,"Wire of iron or non-alloy steel,plated or   oated with zinc.",India,Kg,250220,22142
+73063000,"Other tubes,pipes&hollow profile, welded,o   circular crosssection,of iron/nonall",India,Kg,168200,17708
+73069090,"Others welded, of non-circular cross-section pipe",India,Kg,22200,2153
+73090000,"Reservoirs, tanks (excl for gas) of ir on o  steel, >300 l",India,PCS,11,208
+73141400,Woven cloth of stainless steel (excl endl e s bands for machinery),Thailand,Kg,100,1275
+73239300,"Table, kitchen or household articles of  st inless steel",Australia,Kg,1900,492
+73239300,"Table, kitchen or household articles of  st inless steel",Bhutan,Kg,10,5
+73239300,"Table, kitchen or household articles of  st inless steel",China,Kg,800,9
+73239300,"Table, kitchen or household articles of  st inless steel",India,Kg,58895,11440
+73239300,"Table, kitchen or household articles of  st inless steel",Indonesia,Kg,70,8
+73239300,"Table, kitchen or household articles of  st inless steel",Japan,Kg,70,106
+73239300,"Table, kitchen or household articles of  st inless steel",New Zealand,Kg,20,8
+73239300,"Table, kitchen or household articles of  st inless steel",Singapore,Kg,3,22
+73239300,"Table, kitchen or household articles of  st inless steel","Taiwan, Province of China",Kg,40,48
+73239300,"Table, kitchen or household articles of  st inless steel",United States,Kg,8618,2420
+73239400,"Table, kitchen or household articles of  ir n or steel, enamelled",India,Kg,24917,5027
+73239900,"Table, kitchen or household articles of  ir n or steel, nes.",Australia,Kg,5407,5051
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",Belgium,Kg,395,1072
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",Bhutan,Kg,20,21
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",Japan,Kg,45,101
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",Malaysia,Kg,63,119
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",Switzerland,Kg,30,31
+74081100,"Wire of refined copper, maximum cross-sect  onal dimension >6mm.",United States,Kg,206,131
+74092100,"Plates, sheets and strip, of brass, in coi  s, >015mm thick.",India,Kg,72614,74387
+74092900,"Plates, sheets and strip, of brass, uncoil  d, >015mm thick.",India,Kg,3845,3410
+74198000,Other,Australia,Kg,1234,292
+74198000,Other,India,Kg,13,11
+76151000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",Australia,PCS,3208,1542
+76151000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",China,PCS,949,133
+76151000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",Japan,PCS,589,102
+76151000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",United States,PCS,471,481
+78011000,"Refined lead, unwrought",India,Kg,60200,15411
+78019900,Unwrought lead (excl refined and containi n  antimony),India,Kg,145306,40782
+79020000,Zinc waste and scrap  .,India,Kg,49340,10553
+82081000,"Knives and cutting blades, for metal worki  g machines",United States,PCS,48,70
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Chile,Kg,6200,174
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Denmark,Kg,35,33
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",France,Kg,4,0
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Germany,Kg,18,23
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",India,Kg,15,915
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Indonesia,Kg,15950,617
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Poland,Kg,15,8
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",United States,Kg,730,560
+83061090,"Other type  of bells, gongs and the like  .",Italy,Kg,85,83
+83061090,"Other type  of bells, gongs and the like  .",United States,Kg,5801,12347
+83062110,Statuettes of plated with precious metal,China,Kg,4105,279
+83062110,Statuettes of plated with precious metal,Germany,Kg,250,30621
+83062910,Other statuettes,Australia,Kg,13,1
+83062910,Other statuettes,Bhutan,Kg,1728,2149
+83062910,Other statuettes,Canada,Kg,170,280
+83062910,Other statuettes,Chile,Kg,1400,250
+83062910,Other statuettes,China,Kg,3785,589
+83062910,Other statuettes,Colombia,Kg,2,45
+83062910,Other statuettes,Denmark,Kg,1,91
+83062910,Other statuettes,France,Kg,245,838
+83062910,Other statuettes,Hong Kong,Kg,25,683
+83062910,Other statuettes,India,Kg,7328,4545
+83062910,Other statuettes,Indonesia,Kg,5900,892
+83062910,Other statuettes,Malaysia,Kg,28,95
+83062910,Other statuettes,New Zealand,Kg,9,8
+83062910,Other statuettes,Norway,Kg,23,890
+83062910,Other statuettes,Poland,Kg,5,20
+83062910,Other statuettes,Singapore,Kg,168,889
+83062910,Other statuettes,Switzerland,Kg,0,21
+83062910,Other statuettes,United States,Kg,85,1356
+83062990,Other ornaments,China,Kg,8038,747
+83062990,Other ornaments,United Kingdom,Kg,1,26
+83063000,"Photograph, picture or similar frames; mir  ors of base metal",Australia,Kg,4542,6541
+83063000,"Photograph, picture or similar frames; mir  ors of base metal",Germany,Kg,8,3
+84713010,Laptop and note book,Uganda,PCS,28,2582
+85153900,"Machines for arc (incl plasma arc) weldin g of metals, not automatic.",India,PCS,159,109
+85444200,"Electric conductors, for a voltage <=1000V  fitted with connectors",Bhutan,MTR,1,12
+85446000,"Electric conductors, nes, for a voltage >1  00 V.",India,MTR,1000,1164
+87114000,Motorcycle With piston engine of exceeding 500CC not exceeding 800CC,Turkey,PCS,1,70
+90013010,Intraocular contact lenses   .,South Africa,PCS,970,794
+90013010,Intraocular contact lenses   .,Sri Lanka,PCS,1687,4795
+90014000,Spectacle lenses of glass   .,Mongolia,PCS,359,341
+90213900,Other artificial parts of the body (excl  a tificial joints).,China,PCS,3474,2594
+92021000,"String musical instruments played with a b  w (eg Guitars, violins, harps)",Slovenia,PCS,359,276
+92021000,"String musical instruments played with a b  w (eg Guitars, violins, harps)",United States,PCS,39,34
+92029000,"String musical instruments, nes   .",India,PCS,1,10
+92059000,Other wind musical instruments (excl brass wind),United States,PCS,6,115
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Australia,PCS,2855,1749
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Austria,PCS,115,482
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Belgium,PCS,393,124
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Canada,PCS,1438,963
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Chile,PCS,1276,301
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",China,PCS,76503,3294
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Czech Republic,PCS,74,49
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Denmark,PCS,408,148
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",France,PCS,9734,7882
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Germany,PCS,42904,25459
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Hong Kong,PCS,772,2253
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Hungary,PCS,578,1607
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Indonesia,PCS,4529,210
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Israel,PCS,410,581
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Japan,PCS,1134,194
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).","Korea, Republic of",PCS,592,156
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Latvia,PCS,115,673
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Lithuania,PCS,8742,1206
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Malaysia,PCS,283,118
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Netherlands,PCS,477,159
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Poland,PCS,839,192
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",South Africa,PCS,41,9
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Spain,PCS,574,236
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",United Arab Emirates,PCS,279,810
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",United Kingdom,PCS,9255,8515
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",United States,PCS,32596,14268
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",Uruguay,PCS,16,25
+93070000,"Swords, cutlasses, bayonets, lances and si  ilar arms and parts thereof",United States,PCS,230,980
+94036000,"Wooden furniture, nes   .",Canada,PCS,157,179
+94036000,"Wooden furniture, nes   .",New Zealand,PCS,18,65
+94036000,"Wooden furniture, nes   .",Poland,PCS,2,13
+94036000,"Wooden furniture, nes   .",Russian Federation,PCS,18,634
+94036000,"Wooden furniture, nes   .",Singapore,PCS,1,114
+94036000,"Wooden furniture, nes   .",Switzerland,PCS,9,151
+94036000,"Wooden furniture, nes   .","Taiwan, Province of China",PCS,3,202
+94036000,"Wooden furniture, nes   .",United States,PCS,55,404
+94041000,Mattress supports   .,India,PCS,31,50
+94049000,"Articles of bedding, stuffed, etc (excl m a tresses and sleeping bags)",India,PCS,38,60
+95059000,"Festive, carnival or other entertainment a  ticles, nes",United States,Kg,4250,11166
+95072000,Fish-hooks,United States,Kg,10,188
+96031000,"Brooms and brushes, of twigs or other vege  able materials bound together",India,PCS,10515,1875
+96031000,"Brooms and brushes, of twigs or other vege  able materials bound together","Korea, Republic of",PCS,7407,2636
+96063000,Button moulds and other parts of buttons;   utton blanks,Hong Kong,Kg,16,267
+96063000,Button moulds and other parts of buttons;   utton blanks,United States,Kg,17,157
+96190010,Sanitary towel (Pad),India,PCS,1109000,2917
+96190030,Diaper,India,PCS,2440765,15529
+97012900,Other,Thailand,PCS,137,286
+97019100,"Paintings, drawings and pastels",Australia,PCS,1061,636
+97019100,"Paintings, drawings and pastels",Belgium,PCS,687,159
+97019100,"Paintings, drawings and pastels",Bhutan,PCS,11808,3153
+97019100,"Paintings, drawings and pastels",Canada,PCS,8576,1515
+97019100,"Paintings, drawings and pastels",China,PCS,84450,4157
+97019100,"Paintings, drawings and pastels",Denmark,PCS,33,44
+97019100,"Paintings, drawings and pastels",France,PCS,9998,4210
+97019100,"Paintings, drawings and pastels",Germany,PCS,20433,4929
+97019100,"Paintings, drawings and pastels",Ireland,PCS,106,19
+97019100,"Paintings, drawings and pastels",Israel,PCS,100,25
+97019100,"Paintings, drawings and pastels",Italy,PCS,11563,511
+97019100,"Paintings, drawings and pastels",Japan,PCS,15520,911
+97019100,"Paintings, drawings and pastels",Malaysia,PCS,95,65
+97019100,"Paintings, drawings and pastels",Netherlands,PCS,9837,933
+97019100,"Paintings, drawings and pastels",Poland,PCS,4516,754
+97019100,"Paintings, drawings and pastels",Singapore,PCS,127,133
+97019100,"Paintings, drawings and pastels",South Africa,PCS,5,35
+97019100,"Paintings, drawings and pastels",Switzerland,PCS,5,16
+97019100,"Paintings, drawings and pastels","Taiwan, Province of China",PCS,299755,423
+97019100,"Paintings, drawings and pastels",United Kingdom,PCS,2292,500
+97019100,"Paintings, drawings and pastels",United States,PCS,154179,19152
+97019100,"Paintings, drawings and pastels",Viet Nam,PCS,2537,269
+97030000,"Original sculptures and statuary, in any m  terial",China,PCS,11117,3221
+97030000,"Original sculptures and statuary, in any m  terial",Czech Republic,PCS,6,11
+97030000,"Original sculptures and statuary, in any m  terial",France,PCS,2,1668
+97030000,"Original sculptures and statuary, in any m  terial",Germany,PCS,492,1485
+97030000,"Original sculptures and statuary, in any m  terial",Hong Kong,PCS,17,565
+97030000,"Original sculptures and statuary, in any m  terial",India,PCS,325,1532
+97030000,"Original sculptures and statuary, in any m  terial",Israel,PCS,2,120
+97030000,"Original sculptures and statuary, in any m  terial",Lithuania,PCS,358,155
+97030000,"Original sculptures and statuary, in any m  terial",Norway,PCS,3,344
+97030000,"Original sculptures and statuary, in any m  terial",Switzerland,PCS,3,21
+97030000,"Original sculptures and statuary, in any m  terial","Taiwan, Province of China",PCS,4,153
+97030000,"Original sculptures and statuary, in any m  terial",Thailand,PCS,2,381
+97030000,"Original sculptures and statuary, in any m  terial",United States,PCS,3993,3569
+97030000,"Original sculptures and statuary, in any m  terial",Viet Nam,PCS,1405,762
